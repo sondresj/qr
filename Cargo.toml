@@ -1,0 +1,8 @@
+[package]
+name = "qr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+qrcode = "0.14.1"
+termsize = "0.1.9"
